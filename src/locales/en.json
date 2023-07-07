@@ -1,0 +1,21 @@
+{
+    "title": "Movie Catalog",
+    "film": "Film",
+    "tv_series": "TV Series",
+    "search": "Search...",
+    "SEARCH": "SEARCH",
+    "favorites": "Favorites",
+    "favorite_film": "Favorite films",
+    "vote": "Average Vote:",
+    "popularity": "Popularity",
+    "original_language": "Original language:",
+    "detail": "Detail",
+    "add":"Add",
+    "remove":"Remove",
+    "goBack": "GO BACK",
+    "description": "Description",
+    "release_date": "Release date",
+    "number_of_seasons":"Number of Seasons",
+    "number_of_episodes": "Number of Episodes"
+
+}

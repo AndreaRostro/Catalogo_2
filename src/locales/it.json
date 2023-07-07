@@ -1,0 +1,20 @@
+{
+    "title": "Catalogo Film",
+    "film": "Film",
+    "tv_series": "Serie TV",
+    "search": "Cerca...",
+    "SEARCH": "CERCA",
+    "favorites": "Preferiti",
+    "favorite_film": "Film preferiti",
+    "vote": "Media voti:",
+    "popularity": "Popolarità",
+    "original_language": "Lingua Originale:",
+    "detail": "Dettagli",
+    "add":"Aggiungi",
+    "remove":"Rimuovi",
+    "goBack": "INDIETRO",
+    "description": "Descrizione",
+    "release_date": "Data di rilascio",
+    "number_of_seasons":"Numero di Stagioni",
+    "number_of_episodes": "Numero di Episodi"
+}
