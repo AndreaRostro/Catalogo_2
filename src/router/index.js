@@ -4,7 +4,7 @@ import detailFilm from '../views/detailFilm.vue'
 import detailTv_Series from '../views/detailTv_Series.vue'
 import searchedFilm from '../views/searchedFilm.vue'
 import favorites from '../views/favorites.vue'
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 const routes = [
     {
         path: '/', component: film
@@ -30,7 +30,7 @@ const routes = [
 ]
 
 const router = createRouter({
-    history: createWebHashHistory(),
+    history: createWebHistory(process.env.BASE_URL),
     routes
 })
 
